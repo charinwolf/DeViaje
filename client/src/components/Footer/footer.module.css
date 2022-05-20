@@ -1,0 +1,60 @@
+.container{
+    margin: 2rem;
+    background-color: #fff;
+    border-top: grey solid 1px;
+    height: 50px;
+}
+
+.icons{
+  color: #fff;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+  width: 25px;
+  height: 25px;
+  margin: 1rem;
+  border-radius: 40%;
+  box-shadow: 0px 3px 10px rgba(0,0,0,25);
+}
+
+.iconsWhatapp{
+    color: #25d366;
+    width: 27px;
+    height: 27px;
+    margin: 1rem;
+  }
+
+.iconsFace{
+    color: #4267b2;
+    width: 25px;
+    height: 25px;
+    margin: 1rem;
+}
+
+.containerIcons{
+    display:flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.containerText{
+    display: flex;
+    margin: 10px;
+}
+
+.text{
+    padding: 10px;
+    font-size: 1rem;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footerItem{
+    border-right: 1px solid black;
+    width: 15rem;
+    
+   
+    
+}

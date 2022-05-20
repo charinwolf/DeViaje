@@ -1,0 +1,69 @@
+.grid{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid grey;
+    width: 30vw;
+    margin-left: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.payment{
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: -.5px;
+    color: #444;
+    margin-bottom: 10px;
+    line-height: 24px;
+    letter-spacing: -.5px;
+}
+
+.ciudades{
+    color: #444;
+    font-size: 20px;
+    font-weight: 700;
+    /* float: left; */
+    margin-bottom: 15px;
+}
+
+.salida{
+    color: #666;
+    font-size: 14px;
+}
+
+.fecha{
+    color: #444;
+    margin-top: 5px;
+}
+
+.aerolinea{
+    margin-top: 10px;
+    color: #444;
+}
+
+.viaje{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.ciudad{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.city{
+    font-size: 15px;
+    color: #444;
+}
+
+.time{
+    font-size: 22px;
+    font-weight: 800;
+    color: #444;
+}
