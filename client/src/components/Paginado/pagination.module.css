@@ -1,0 +1,31 @@
+.buttonList{
+    display: inline-flex;
+    position: fixed;
+    bottom: 0;
+    list-style: none;
+   
+   border-radius: 5px;
+   
+    
+ }
+ 
+ .button{
+     padding:10px;
+     box-shadow: none;
+    
+ }
+ 
+ .button:hover{
+     background-color: #664aff;
+     box-shadow: none;
+ }
+
+ .container{
+     margin: 1rem;
+     position:static;
+   
+ }
+
+
+
+

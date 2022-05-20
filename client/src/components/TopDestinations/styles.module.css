@@ -1,0 +1,120 @@
+.mainContainer{
+    display:flex;
+    justify-content: space-around;
+    margin: 2rem;
+   
+   
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+
+}
+
+.offers{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 0px 5px 5px;
+    padding: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.text{
+    width:350px;
+    color: #413839;
+}
+
+.title{
+    color: #413839;
+}
+
+.img{
+    width:100%;
+    height:350px;
+    margin-top: 1rem;
+    border-radius: 5px 5px 0px 0px;
+    box-sizing: border-box;
+    
+}
+
+.slider{
+    border-radius: 5px;
+    margin: 1rem;
+    height: 400px;
+    width: 500px;
+    background-color: #fff;
+    color: #0a66c2;
+
+}
+
+.slide{
+    border-radius: 5px;
+    width: 500px;
+    height: 400px;
+    background-color: #fff;
+
+}
+
+.slideText{
+    z-index: 10;
+    position: absolute;
+    bottom: 2rem;
+    color: white;
+    left: 1.4rem;
+    font-size: 1.5rem;
+}
+
+.prev{
+    color: #0a66c2;
+}
+
+
+.price{
+    border-top: #867a7c solid 0.5px;
+    
+}
+
+.texto{
+    margin: 0;
+    position: relative;
+    left: 2rem;
+    top: 1rem;
+}
+
+.rank{
+color: white;
+background-color: green;
+padding: 4px;
+position: relative;
+left: 5px;
+}
+
+.offers{
+    flex-wrap: wrap;
+}
+
+.btnOffers{
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1348a3;
+    color: #E5E7E9;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.btnOffers:active{
+    transform: scale(.99);
+}
+
+.btnOffers:hover{
+    background-color: #1f56b6;
+}
+
+
