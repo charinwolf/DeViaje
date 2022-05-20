@@ -1,0 +1,196 @@
+{
+    "header": {
+        "titulo": "Bienvenidos a",
+        "url": "deviaje.com"
+    },
+    "nav": {
+        "home": "Inicio",
+        "about": "Acerca de nosotros",
+        "offers": "Ofertas",
+        "per": "Perfil",
+        "s": "Ajustes",
+        "l": "Cerrar sesion"
+    },
+    "searchBar": {
+        "btn": "Buscar",
+        "ida": "Ida",
+        "vuelta": "Ida y vuelta",
+        "phSalida": "Ciudad de origen",
+        "phDestino": "Ciudad de destino",
+        "pasajeros": "Pasajeros",
+        "vuelos": "Vuelos",
+        "range": "Rango de fechas",
+        "salida": "Origen requerido",
+        "des": "Destino requerido",
+        "e": "Origen y destino no pueden ser iguales",
+        "f": "Fecha salida requerida",
+        "f2": "Fecha retorno requerida",
+        "f3": "Fecha retorno debe ser despues de la salida"
+    },
+    "carousel": {
+        "top": "Destinos Top"
+    },
+    "ofertas": {
+        "ofertas": "Ofertas que no pueden esperar",
+        "texto": "Si todavia no definiste tu destino, te puede interesar ver nuestra seccion de ofertas",
+        "btn": "Ver ofertas"
+    },
+    "footer": {
+        "abuso": "Reporte abuso",
+        "textoA": "Si pensas que esta web esta violando tus derechos, presenta tu queja",
+        "contacto": "Como contactar al equipo de soporte",
+        "textoC": "Para saber mas acerca de las funcionalidades de la plataforma, contactarse via mail a deviajepuntocom12@gmail.com",
+        "docs": "Documentacion",
+        "textoD": "Para obtener la documentacion de apoyo y prueba de pago, envie su consulta via mail a deviajepuntocom12@gmail.com",
+        "terminos": "Terminos y Condiciones",
+        "privacidad": "Politica de privacidad",
+        "cookie": "Consentimiento cookies",
+        "derechos": "© 2022 deviaje.com - Todos los derechos reservados"
+    },
+    "loading": {
+        "loading": "Cargando..."
+    },
+    "404": {
+        "texto": "Disculpas, no hay vuelos que coincidan con tu busqueda",
+        "btn": "Inicio"
+    },
+    "filter": {
+        "escalas": "Escalas",
+        "cero": "Directo",
+        "una": "1 Escala",
+        "dos": "2 Escalas o mas",
+        "orden": "Ordenamiento",
+        "proximos": "Proximos vuelos",
+        "precio": "Precio",
+        "dispo": "Disponibilidad"
+    },
+    "cardFrom": {
+        "departure": "Ida",
+        "directo": "Directo",
+        "precio": "Precio",
+        "imp": "Impuestos",
+        "final": "Precio final",
+        "btn": "Comprar",
+        "stops": "Escalas",
+        "alerta": "Oops!",
+        "alerta2": "Si deseas seguir con la compra, tenes que registrarte!"
+    },
+    "cardScaleDetails": {
+        "llegada": "Llegada a la ciudad de",
+        "hora": "Horario de llegada"
+    },
+    "modalDetails": {
+        "duracion": "Duracion",
+        "clase": "Clase",
+        "final": "Duracion total",
+        "equi": "Equipaje",
+        "inc": "Incluye mochila o bolso de mano.",
+        "otra": "Debe entrar debajo del asiento delantero.",
+        "mano": "Incluye carry on.",
+        "text": "Debe entrar en los compartimientos superiores del avion.",
+        "grande": "Incluye equipaje de bodega.",
+        "t": "2 valijas por adulto.",
+        "t2": "Son despachadas en el aeropuerto durante el check-in."
+    },
+    "cardFromTo": {
+        "ida": "Ida",
+        "vuelta": "Vuelta",
+        "escalas": "Directo"
+
+    },
+    "about": {
+        "quien": "Quienes somos?",
+        "texto": "Somos una compañia basada en Buenos Aires. Nuestra mision es conectar el mundo con cada persona. Queremos hacer que el viaje sea accesible para todos.",
+        "alianzas": "Alianzas"
+    },
+    "ofer": {
+        "vi": "Visita",
+        "desde": "Volando desde Buenos Aires",
+        "rank": "Ranking global",
+        "precio": "Precio mas bajo"
+    },
+    "stepper": {
+        "p1": "Selecciona un vuelo",
+        "p2": "Completa la informacion de los pasajeros",
+        "p3": "Paga"
+    },
+    "passengersInfo": {
+        "tit": "Ya casi estamos! Completa tus datos personales y segui con tu compra.",
+        "sub": "Quienes viajan?",
+        "n": "Nombre",
+        "ph": "Como aparece en el documento de viaje",
+        "a": "Apellido",
+        "p": "Pais de residencia",
+        "d": "Numero de documento de viaje",
+        "fecha": "Fecha de nacimiento",
+        "sig": "Siguiente",
+        "pasajero": "Pasajero",
+        "cont": "Continuar al pago"
+    },
+    "paymentDetail": {
+        "det": "Detalle de la compra",
+        "vuelo": "Vuelo (por pasajero)",
+        "imp": "Impuestos (por pasajero)",
+        "pasa": "pasajeros"
+    },
+    "flightInfo": {
+        "det": "Detalles del vuelo",
+        "s": "SALIDA",
+        "v": "REGRESO",
+        "d": "Duracion"
+    },
+    "paymentForm": {
+        "tit": "Complete con los datos de la tarjeta",
+        "pag": "Ver opciones de pago",
+        "opc": "Opciones de pago",
+        "p": "Procesando...",
+        "pago": "Pagar",
+        "gracias": "Gracias!",
+        "pro": "Tu pago se proceso de manera correcta"
+    }, 
+    "bilingDetails": {
+        "n": "Nombre",
+        "e": "Email",
+        "a": "Direccion",
+        "c": "Ciudad",
+        "s": "Provincia",
+        "z": "CP"  
+    },
+    "userProfileForm": {
+        "per": "INFORMACION PERSONAL",
+        "doc": "DNI / Pasaporte",
+        "fecha": "Fecha de nacimiento",
+        "tel": "Numero de telefono",
+        "pais": "Seleccione un pais",
+        "estado": "Provincia",
+        "ciu": "Ciudad",
+        "cp": "CP",
+        "g": "Genero",
+        "f": "Femenino",
+        "m": "Masculino",
+        "v": "Vacunado",
+        "s": "Si",
+        "n": "No",
+        "btn": "Enviar"
+    },
+    "userProfile": {
+        "per": "Mi perfil",
+        "n": "Nombre",
+        "a": "Apellido",
+        "m": "Mail",
+        "u": "Nombre usuario",
+        "dni": "DNI / Pasaporte",
+        "t": "Numero de telefono"
+    },
+    "errorLanding": {
+        "dep": "Salida requerida",
+        "des": "Destino requerido",
+        "dist": "Origen y destino no pueden ser iguales",
+        "fe": "Fecha requerida",
+        "v": "Fecha de retorno requerida",
+        "d": "Retorno debe ser despues de la salidaReturn date must be after departure date"
+    },
+    "home": {
+        "modal": "No se encontraron vuelos"
+    }  
+}

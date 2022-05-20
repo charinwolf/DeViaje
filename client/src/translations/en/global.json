@@ -1,0 +1,196 @@
+{
+    "header": {
+        "titulo": "Welcome to",
+        "url": "deviaje.com"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About us",
+        "offers": "Offers",
+        "per": "Profile",
+        "s": "Settings",
+        "l": "Logout"
+    },
+    "searchBar": {
+        "btn": "Search",
+        "ida": "One way",
+        "vuelta": "Round trip",
+        "phSalida": "Enter departure city",
+        "phDestino": "Enter destination city",
+        "pasajeros": "Passengers",
+        "vuelos": "Flights",
+        "range": "Flight date range",
+        "salida": "Departure city required",
+        "des": "Destination required",
+        "e": "Origin and destination cant be the same",
+        "f": "Date required",
+        "f2": "Return date required",
+        "f3": "Return date must be after departure date"
+    },
+    "carousel": {
+        "top": "Top Destination"
+    },
+    "ofertas": {
+        "ofertas": "Offers you cannot miss",
+        "texto": "If you have not yet defined your destination, you may be interested in seeing our offers section",
+        "btn": "View offers"
+    },
+    "footer": {
+        "abuso": "Report abuse",
+        "textoA": "If you believe that the website is violating your rights, file a compliant by filling out this form",
+        "contacto": "How to contact our support",
+        "textoC": "To find out more about the platform features, contact us via email deviaje@gmail.com.ar",
+        "docs": "Accounting docs",
+        "textoD": "To get the supporting documentation and proof of payment, send your request to deviajepuntocom12@gmail.com",
+        "terminos": "Terms & Conditions",
+        "privacidad": "Privacy Policy",
+        "cookie": "Cookie Consent",
+        "derechos": "© 2022 deviaje.com - All Rights Reserved"
+    },
+    "loading": {
+        "loading": "Loading..."
+    },
+    "404": {
+        "texto": "Sorry, there is no route defined for what you are looking for!",
+        "btn": "Back to Home"
+    },
+    "filter": {
+        "escalas": "Stops",
+        "cero": "Non-Stop",
+        "una": "1 Stop",
+        "dos": "2 Stops or more",
+        "orden": "Sort by",
+        "proximos": "Upcoming flights",
+        "precio": "Price",
+        "dispo": "Availability"
+    },
+    "cardFrom": {
+        "departure": "Departure",
+        "directo": "Non-Stop",
+        "precio": "Price",
+        "imp": "Taxes-rates",
+        "final": "Final Price",
+        "btn": "Buy",
+        "stops": "Stops",
+        "alerta": "Oops!",
+        "alerta2": "If you want to buy, you must be registered!!"
+    },
+    "cardScaleDetails": {
+        "llegada": "Arrival in the city of",
+        "hora": "Time of arrival"
+    },
+    "modalDetails": {
+        "duracion": "Duration",
+        "clase": "Class",
+        "final": "Total duration",
+        "equi": "Baggage",
+        "inc": "Includes a backpack or purse.",
+        "otra": "Must fit under the front seat.",
+        "mano": "Includes hand luggage.",
+        "text": "Must fit in the overhead compartment of the plane.",
+        "grande": "Includes checked baggage.",
+        "t": "2 bags per adult.",
+        "t2": "It is dispatched at the airport during Check-in."
+    },
+    "cardFromTo": {
+        "ida": "Departure",
+        "vuelta": "Return",
+        "escalas": "Non-Stop"
+
+    },
+    "about": {
+        "quien": "Who we are?",
+        "texto": "We are a company based in Buenos Aires. Our mission is to connect the world with every single person. We a ime to make travel accesible to everyone.",
+        "alianzas": "Alianzas"
+    },
+    "ofer": {
+        "vi": "Visit",
+        "desde": "Flying from Buenos Aires",
+        "rank": "Global Rank",
+        "precio": "Lowest Price"
+    },
+    "stepper": {
+        "p1": "Select a flight",
+        "p2": "Complete passengers information",
+        "p3": "Pay"
+    },
+    "passengersInfo": {
+        "tit": "You're almost there! Fill in your personal details and complete your purchase.",
+        "sub": "Who is travelling?",
+        "n": "Name",
+        "ph": "As it appears in the travel document",
+        "a": "Last Name",
+        "p": "Residence Country",
+        "d": "Number of travel document",
+        "fecha": "Date of Birth",
+        "sig": "Next",
+        "pasajero": "Passenger",
+        "cont": "Continue to payment"
+    },
+    "paymentDetail": {
+        "det": "Payment detail",
+        "vuelo": "Flight (per passenger)",
+        "imp": "Taxes and fees (per passenger)",
+        "pasa": "passengers"
+    },
+    "flightInfo": {
+        "det": "Flight details",
+        "s": "DEPARTURE",
+        "v": "RETURN",
+        "d": "Duration"
+    },
+    "paymentForm": {
+        "tit": "Complete with the card information",
+        "pag": "Check payment options",
+        "opc": "Payment options",
+        "p": "Procesing...",
+        "pago": "Pay",
+        "gracias": "Thank you!",
+        "pro": "We have succesfully processed your payment"
+    }, 
+    "bilingDetails": {
+        "n": "Name",
+        "e": "Email",
+        "a": "Address",
+        "c": "City",
+        "s": "State",
+        "z": "ZIP"  
+    },
+    "userProfileForm": {
+        "per": "PERSONAL INFO",
+        "doc": "DNI / Passport",
+        "fecha": "Birthday",
+        "tel": "Phone number",
+        "pais": "Choose a country",
+        "estado": "State",
+        "ciu": "City",
+        "cp": "ZIP Code",
+        "g": "Genre",
+        "f": "Female",
+        "m": "Male",
+        "v": "Vaccinated",
+        "s": "Yes",
+        "n": "No",
+        "btn": "Submit"
+    },
+    "userProfile": {
+        "per": "My Profile",
+        "n": "Name",
+        "a": "Last Name",
+        "m": "Mail",
+        "u": "User Name",
+        "dni": "DNI / Passport",
+        "t": "Phone number"
+    },
+    "errorLanding": {
+        "dep": "Departure city required",
+        "des": "Destination city required",
+        "dist": "Origin and destination cant be the same",
+        "fe": "Date required",
+        "v": "Return date required",
+        "d": "Return date must be after departure date"
+    },
+    "home": {
+        "modal": "No flights found"
+    }
+}
