@@ -1,6 +1,6 @@
 # DeViaje
 
-Aplicacion presentada a manera de proyecto final para recibir la certificación de desarrollador Fullstack del bottcam Henry
+Aplicacion presentada a manera de proyecto final para recibir la certificación de desarrollador Fullstack del bootcamp Henry
 
 Este proyecto fue realizado en colaboracion entre ocho (8) estudiantes. 
 
